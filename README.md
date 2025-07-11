@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/tanmayadmuthe">
-    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJjZHN0NjVrcXJ5c2kxdjFodDIzc25qN2h0Zm1ibXR5ZnduZjIyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif"/>
+    <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFiY2tlNWQ5b2QwNjBidHY1eXVlZ2t0NXB4bjdsOHRtc3A4a3g0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"/>
   </a>
 </p>
 
