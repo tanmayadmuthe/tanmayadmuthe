@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/tanmayadmuthe">
-    <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFiY2tlNWQ5b2QwNjBidHY1eXVlZ2t0NXB4bjdsOHRtc3A4a3g0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"/>
+    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Passionate tech enthusiast with experience in machine learning, full-stack devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45"/>
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
@@ -141,13 +141,12 @@ Designed an AI-driven web scraper that extracts and structures web content, proc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayadmuthe&show_icons=true&theme=dark&cache_buster=1718179200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmayadmuthe&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayadmuthe&theme=dark&cache_buster=1718179200" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayadmuthe&theme=dark" alt="GitHub Streak" />
 </p>
-
 
 ---
 
