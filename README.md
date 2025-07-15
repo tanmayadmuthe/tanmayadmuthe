@@ -138,17 +138,6 @@ Designed an AI-driven web scraper that extracts and structures web content, proc
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayadmuthe&show_icons=true&theme=dark&cache_buster=17181790" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayadmuthe&theme=dark&cache_buster=1718170" alt="GitHub Streak" />
-</p>
-
-
 ---
 
 💡 **Always open to collaborating on interesting projects and research opportunities!**
